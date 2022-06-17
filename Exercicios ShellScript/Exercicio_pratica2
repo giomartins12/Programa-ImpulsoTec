@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ read -p "Digite o numero do ip: " num_ip
+ read -p "Digite o numero da mascara de rede: " num_mask
+ listaip=($num_ip $num_mask)
+ echo "numero ip: ${listaip[0]}"
+ echo "numero da mascara de rede: ${listaip[1]}"
+ echo ${listaip[@]}
+
+
+
+
+
