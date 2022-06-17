@@ -22,6 +22,10 @@ Repositório com as atividades realizadas no programa.
 
 - Exercícios em shellscript Linux para fixação da disciplina.
 
+### :mag:Estudos de caso:
+
+- Exercícios de estudo de caso em linguagem Python.
+
 
 
 
